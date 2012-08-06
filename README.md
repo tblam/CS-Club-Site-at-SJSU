@@ -29,11 +29,20 @@ or you could also run `rake page name='NAME HERE'`. Your call.
 
 ### Adding a new post
 
-Currently, posts are not well-supported. You can add one, though, just run
-`rake post title='TITLE HERE'`. It will be added and accessible through the
-atom feed or the archive, and later on when the front page supports posts it
-will be supported there as well.
+Just run `rake post title='TITLE HERE'`. This will create a new file in the `_posts` directory that you can modify as you need. For consistency, the first few lines of the file should be edited to look like the following:
 
+    ---
+    layout: post
+    title: "Full Title Here"
+    tagline: "This can be skipped - your choice"
+    tags: [classes]
+    author: Sammy S.
+    authoremail: Sammy.S@1101b.com
+    ---
+    {% include JB/setup %}
+
+
+Note that every field is optional except "layout", "title", and the final line with the include directive. The tags don't do anything currently but feel free to tag them as we might use tags later on.
 
 ## About the author
 
@@ -44,7 +53,7 @@ future generations of SJSU hackers can use it as they see fit.
 
 ### About the oldest-ancestor repo
 
-You might noticed that user 'eblume' holds the oldest repo, despite the fact that the 'canonical' repo is a descendent. This is an artifact of how the project developed. Please do use the [official CSC@SJSU repo](https://github.com/CS-Club-at-SJSU/CS-Club-Site-at-SJSU), and not the oldest-ancestor repo (owned by eblume).
+You might have noticed that user 'eblume' holds the oldest repo, despite the fact that the 'canonical' repo is a descendent. This is an artifact of how the project developed. Please do use the [official CSC@SJSU repo](https://github.com/CS-Club-at-SJSU/CS-Club-Site-at-SJSU), and not the oldest-ancestor repo (owned by eblume).
 
 ## License
 
