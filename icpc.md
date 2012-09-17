@@ -14,6 +14,10 @@ The contest is on November 3, 2012.
 
 To determine if you are eligible check out the [2012 eligibility flow chart](http://icpc.baylor.edu/ICPCWiki/attach/Regional%20Rules/EligibilityDecisionTree-12.pdf).
 
+Contact:
+* Colin
+* Sai
+* David
 
 
 ## Links:
