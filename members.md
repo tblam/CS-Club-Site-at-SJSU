@@ -9,7 +9,6 @@ edit_url: /edit/gh-pages/members.md
 
 # Current Members
 
-* [Erich Blume](mailto:blume.erich@gmail.com) ([github account](https://github.com/eblume))
 * [Kelsey Higham](mailto:kelseyhigham+telephone@gmail.com?subject=Ring%20ring) ([videogames](http://sjsugamedev.com/user/22))
 * [Tim Stullich](mailto:timstullich@gmail.com) ([github account](https://github.com/tstullich))
 * [Justin Walker](mailto:justin.kingdust@gmail.com) ([github account](https://github.com/ankme))
