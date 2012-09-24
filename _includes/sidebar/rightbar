@@ -8,6 +8,6 @@ Inside can be absolutely anything, no limits, except that the width of that
 content is limited to 190px.
 {% endcomment %}
 
-{% include sidebar/googlecalendar %}
+{% include sidebar/navlinks %}
 
 {% include sidebar/recentposts %}

@@ -9,7 +9,12 @@ edit_url: /edit/gh-pages/index.html
 
 <p>Welcome to the Computer Science Club at <a href="http://www.sjsu.edu/">San Jose State University</a>!</p>
 
-<h1>Recent Post: <a href="{{ toppost.url }}">{{ toppost.title }}</a></h1>
+<h1>Upcoming Events</h1>
+<div id="move_css_to_file">
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=frtlkikvc0vuvai0h23j0bj05g%40group.calendar.google.com&amp;color=%23875509&amp;ctz=America%2FLos_Angeles" style=" border-radius: 4px; border-width:0; width: 100%; height: 200px; " seamless="" frameborder="0" scrolling="no"></iframe>
+</div>
+
+<h1>Newest Post: <a href="{{ toppost.url }}">{{ toppost.title }}</a></h1>
 
 <p>Posted on {{ toppost.date | date: "%d %B %Y" }}{% if toppost.author %} by <em>{% if toppost.authoremail %}<a href="mailto:{{ toppost.authoremail }}">{% endif %}{{toppost.author}}{% if toppost.authoremail %}</a>{% endif %}</em>{% endif %}:</p>
 
