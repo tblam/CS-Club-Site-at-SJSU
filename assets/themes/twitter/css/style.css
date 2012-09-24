@@ -92,6 +92,10 @@ html, body {
     padding-bottom: 0.1em;
 }
 
+.contentdiv {
+    margin-left: 20px;
+}
+
 /* article block_quote header remaps */
 .block_quote {
     margin: 1em;
