@@ -42,7 +42,7 @@ If you have any questions or would like to discuss the problem sets. Feel free t
 ## Contact:
 * Colin B. ([icpc@1101b.com](mailto:icpc@1101b.com))
 * Sai Datta ([sai.icpc@gmail.com](sai.icpc@gmail.com))
-* David
+* Patrick Roteman ([patrickroteman@gmail.com](patrickroteman@gmail.com))
 
 ## Links:
 * [Live Online Practice](http://livearchive.onlinejudge.org/)
