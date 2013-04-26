@@ -1,4 +1,4 @@
----
+`---
 layout: page
 title: About
 group: navigation
@@ -29,7 +29,8 @@ You may also be interested in our
 * Vice President: Audrey Leong
 * Secretary: Adrian Vargas
 * Treasurer: Joseph Shidler
-
+* Webmaster: Samira C. Oliva
+ 
 # Past Officers
 
 ## Fall 2011 – Spring 2012
