@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Web Master"
+title:  "CS Club Elections!"
 author: "Samira C. Oliva"
 ---
 
@@ -9,10 +9,10 @@ voting will run from  April 24-26!
 
 Nominated parties:
 
-President: Patrick R
-VP: Jeff B., Justin T. 
-Treasurer: Jeremy M., Joshua F.
-Secretary: Tim S. 
+* President: Patrick R
+* VP: Jeff B., Justin T. 
+* Treasurer: Jeremy M., Joshua F.
+* Secretary: Tim S. 
 
 Please come to the CS Club to vote!:)
 
