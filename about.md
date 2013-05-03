@@ -23,6 +23,16 @@ You may also be interested in our
 [Algorithms site](http://topcoder.csclubsjsu.com/) or the
 [Computer Science department website](http://cs.sjsu.edu/).
 
+
+
+# Future Officers (Fall 2013 - Spring 2014)
+
+* President: Patrick Roteman
+* Vice President: Jeffrey Barrington 
+* Secretary: Tim Stullich
+* Treasurer: Jeremy Mua-Valeris
+* Webmaster: Samira C. Oliva
+
 # Current Officers (Fall 2012 - Spring 2013)
 
 * President: Bernard Mesa
@@ -36,6 +46,8 @@ You may also be interested in our
 ## Fall 2011 – Spring 2012
 
 * President: David Do
-* Vice President: Tom (Yu-Ching) Wang
+* Vice President: Yu-Ching Wang
 * Secretary: Patrick Roteman
 * Treasurer: Angela Tao
+* Webmaster: Colin Blower
+
