@@ -1,4 +1,4 @@
-yout: post
+layout: post
 $title:  "CS Club Election Results!"
 author: Samira C. Oliva
 ---
