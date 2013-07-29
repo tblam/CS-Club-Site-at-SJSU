@@ -25,25 +25,25 @@ You may also be interested in our
 
 
 
-# Future Officers (Fall 2013 - Spring 2014)
+# Current Officers (Fall 2013 - Spring 2014)
 
 * President: Patrick Roteman
 * Vice President: Jeffrey Barrington 
 * Secretary: Tim Stullich
 * Treasurer: Jeremy Mua-Valeris
 * Webmaster: Samira C. Oliva
+ 
+# Past Officers
 
-# Current Officers (Fall 2012 - Spring 2013)
+# Fall 2012 - Spring 2013
 
 * President: Bernard Mesa
 * Vice President: Audrey Leong
 * Secretary: Adrian Vargas
 * Treasurer: Joseph Shidler
 * Webmaster: Samira C. Oliva
- 
-# Past Officers
 
-## Fall 2011 – Spring 2012
+# Fall 2011 – Spring 2012
 
 * President: David Do
 * Vice President: Yu-Ching Wang
