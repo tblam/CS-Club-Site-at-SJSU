@@ -9,7 +9,7 @@ author: "Samira C. Oliva"
 
 My name is Bhavya and I work at Symantec. In my team we have a opening for DevOps roles and would like to post the job opening. Though the roles says 5 years of experience but we are open for new grads as well. Students can send their resumes directly at nuk_ops@symantec.com. 
 
-Below is the job description:
+Below is the job description: [full view](http://i.imgur.com/RiSqANb.png)
 
 ![alt text](http://i.imgur.com/RiSqANb.png "Job Details")
 
