@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title:  "CS Club Members Likely To Attend Recruiting And Programming Related Events"
 author: "Samira C. Oliva"
 ---
 {% include JB/setup %}
