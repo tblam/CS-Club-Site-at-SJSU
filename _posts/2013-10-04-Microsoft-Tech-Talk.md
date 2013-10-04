@@ -12,3 +12,7 @@ The promised Microsoft tech talk link and information roundup is here. For more 
 All three phones that were given to me to hand away to people who've reserved App names have already been given away. I will get more and continue to give out the dev phones in place of the presenters. When you have an app name reserved, take a screenshot of the name reservation on Dreamspark and send me your preferred email address, full name, and App name (which should also be in the screenshot). I'll get back to you when a phone is available on first come first serve basis. My email address is patrickroteman@gmail.com
 
 Any questions can also be sent to that email address. Thanks for attending!
+
+-- Patrick Roteman
+
+
