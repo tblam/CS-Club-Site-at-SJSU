@@ -1,5 +1,4 @@
----
-layout: page
+yout: page
 title: About
 group: navigation
 edit_url: /edit/gh-pages/about.md
@@ -59,4 +58,5 @@ You may also be interested in our
 * Secretary: Patrick Roteman
 * Treasurer: Angela Tao
 * Webmaster: Colin Blower
+
 
