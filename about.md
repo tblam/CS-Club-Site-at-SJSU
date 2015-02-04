@@ -24,16 +24,24 @@ You may also be interested in our
 [Computer Science department website](http://cs.sjsu.edu/).
 
 
+# Current Officers (Fall 2014 - Spring 2015)
 
-# Current Officers (Fall 2013 - Spring 2014)
+* President: Kevin Hou
+* Vice President: Sergio Licardie
+* Secretary: Tim Stullich
+* Treasurer: Joseph Richardson
+* Webmaster: Samira C. Oliva
+
+# Past Officers
+
+# Fall 2013 - Spring 2014
 
 * President: Patrick Roteman
 * Vice President: Jeffrey Barrington 
 * Secretary: Tim Stullich
 * Treasurer: Jeremy Mua-Valeris
 * Webmaster: Samira C. Oliva
- 
-# Past Officers
+
 
 # Fall 2012 - Spring 2013
 
