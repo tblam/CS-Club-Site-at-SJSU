@@ -1,4 +1,5 @@
-yout: page
+——-
+layout: page
 title: About
 group: navigation
 edit_url: /edit/gh-pages/about.md
